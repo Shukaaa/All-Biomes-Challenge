@@ -1,0 +1,4 @@
+name: All-Biomes-Challenge
+version: '${project.version}-1.19.4'
+main: rip.shukaaa.allbiomeschallenge.Main
+api-version: '1.19'
